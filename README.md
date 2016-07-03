@@ -1,9 +1,9 @@
 ## What's this?
-This is a simple demo project for my self to play around with enum based styles for `UIControls` while using the Interface Builder.
+This is a simple demo project for my self to play around with enum based styles for all `UIControls` realted controls while using the Interface Builder.
 
 ## Features
 1. It compiles
-1. It has a, for normal, pressed and disabled, styled UIButton
+1. It has a, for normal, pressed and disabled, styled `UIButton`
 
 ## How to run
 1. Run the project
