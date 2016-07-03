@@ -16,10 +16,5 @@ This is a simple demo project for my self to play around with enum based styles 
 	</a>
 </div>
 
-
-## Thanks to
-* [@codeprincess](https://twitter.com/codePrincess) for gicing me the tip to have a look at the following tutorial
-* [Alex Repty](https://openclipart.org/user-detail/jhnri4) for the great tutorial
-
 ## License 
 Quotes is licensed under [MIT](https://en.wikipedia.org/wiki/MIT_License) License. Icon may differ. 
